@@ -1,0 +1,17 @@
+Source: dtb-subfolder-compat
+Section: unknown
+Priority: optional
+Maintainer: Josua Mayer <josua@linux.site>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: <insert the upstream URL, if relevant>
+Vcs-Browser: https://github.com/mxOBS/deb-pkg_dtb-subfolder-compat
+
+Package: dtb-subfolder-compat
+Architecture: all
+Depends: ${misc:Depends}
+Description: Transitional package for boot
+ This package ensures compatibility with old bootloaders
+ that don't look in /boot/dtb for DTBs.
+ .
+ Can be removed after adapting boot.scr or uEnv.txt.
