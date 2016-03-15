@@ -4,3 +4,5 @@
 /boot/dtb/imx6q-cubox-i.dtb /boot/imx6q-cubox-i.dtb
 /boot/dtb/imx6q-hummingboard2.dtb /boot/imx6q-hummingboard2.dtb
 /boot/dtb/imx6q-hummingboard.dtb /boot/imx6q-hummingboard.dtb
+
+/boot/dtb/armada-388-clearfog.dtb /boot/armada-388-clearfog.dtb
