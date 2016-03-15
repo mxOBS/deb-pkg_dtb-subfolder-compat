@@ -1,0 +1,6 @@
+/boot/dtb/imx6dl-cubox-i.dtb /boot/imx6dl-cubox-i.dtb
+/boot/dtb/imx6dl-hummingboard2.dtb /boot/imx6dl-hummingboard2.dtb
+/boot/dtb/imx6dl-hummingboard.dtb /boot/imx6dl-hummingboard.dtb
+/boot/dtb/imx6q-cubox-i.dtb /boot/imx6q-cubox-i.dtb
+/boot/dtb/imx6q-hummingboard2.dtb /boot/imx6q-hummingboard2.dtb
+/boot/dtb/imx6q-hummingboard.dtb /boot/imx6q-hummingboard.dtb
